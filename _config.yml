@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG Michigan DevFest 2015"
 email: "michigandevfest@gmail.com"
 description: "Google Developers' DevFest in Southeast Michigan"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "http://michigandevfest.com"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
