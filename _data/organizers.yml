@@ -1,0 +1,5 @@
+- 
+  group: "Main Organizers"
+  elements: 
+    - {name: "GDG Detroit", description: "GDG Detroit - Open and volunteer geek community", link: "http://www.meetup.com/Detroit-Google-Developers-Group/", imageUrl: "gdg-detroit.svg"}
+    - {name: "GDG Ann Arbor Android", description: "GDG A3 - Open and volunteer geek community", link: "http://www.meetup.com/gdg-a3/", imageUrl: "gdg-a3.png"}
