@@ -1,0 +1,5 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Quicken Loans", description: "Quicken Loans", link: "http://www.quickenloans.com", imageUrl: "QuickenLoans.png"}
+- 
