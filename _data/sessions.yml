@@ -1,57 +1,130 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: "Breakfast/Opening"
+  place: "Kitchen and Breakout Room"
   service: true
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Kitchen"
   service: true
 -
-  id: 001
+  id: 504
+  title: "Wrap Up"
+  place: "Super Breakout Room"
+  service: true  
+-
+  id: 600
   title: "TBD"
-  description: "TBD"
+  place: "TBD"
+  service: true 
+-
+  id: 001
+  title: "Getting Started with SQLite"
+  description: "SQLlite, which is the standard database for Android, is an excellent way to maintain persistent data in an app. Many apps would benefit from making use of the database. At the conclusion of this presentation, you should be able to perform basic database design, create a database and use (query, insert, update, and delete) the database in an app. It will also cover basic cursors and linking cursors to list views."
   subtype: presentation
-  speakers: []
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "CodeLab - TBD"
+  description: "This will be a hands-on CodeLab."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: []
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Introduction to SVG"
+  description: "With the plethora of of devices used to access the web. And all the different screen sizes, different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it, and it enjoys broad support in most modern environments.SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly.<br><br> This talk will cover:<br>Why use SVG<br>What is SVG<br>Browser Support<br>Simple SVG objects/elements (code examples)<br>How to construct more complex SVGs (code examples)<br>How to clean up those files for use (code examples)<br>How to get them on the page (code examples)<br>How to use CSS with SVG (code examples)<br>Ways to animate SVG (code examples)<br>Javascript control (code examples)<br>Accessibility/SEO (code examples)"
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Beginner" 
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Observing RxJava on Android"
+  description: "Everyone wants smooth, responsive, and robust apps. Yet asynchronous programming on Android leaves a lot to be desired. RxJava brings the Functional Reactive Programming paradigm to Java, making concurrency easy and enjoyable!<br/><br/>This talk will discuss the fundamentals and benefits of RxJava on Android, and help ease the learning curve of the FRP paradigm. See how to take advantage of Observables and Subscribers to keep your apps fast and reliable."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate" 
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Developing for Android Auto"
+  description: "Google released a couple of APIs for Android Auto. In this session we look at what you can and cannot do with the messaging and audio APIs.  We'll take a deep dive into some reference apps and also look at how to convert an existing app to the Android Auto framework."
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Intermediate" 
+-
+  id: 006
+  title: "Kotlin: New Hope in a Java 6 Wasteland"
+  description: "Java 8 was released last year adding lambdas, streams, and many other language improvements. Java 9 is already in the works, but with over half of Android devices stuck using Java 6 will we ever get to use a modern language? <br>Introducing Kotlin: a statically typed JVM language backed by JetBrains. With features like lambdas, class extensions, and null-safety, it aims to be concise, expressive, and highly interoperable. In this presentation we will learn how powerful Kotlin can be when added to your Android tool belt."
+  subtype: presentation
   speakers: [7]
   language: en
+  complexity: "Beginner"
+-
+  id: 007
+  title: "Java Datastore SDK in Google App Engine"
+  description: "While Google App Engine (GAE) does not support traditional relational databases like MySQL, Oracle etc, it does support NoSQL Datastore providing all the features for a typical Big Data system. We will explore the many different API's (JDO, JPA and low-level Entity) that are available to store data."
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Tales of Game Development with LibGDX - A Postmortem"
+  description: "Game Development is scary; there are so many languages, libraries, and IDEs to choose from! This talk will advocate the pros and woes of my current favorite weapon of choice: LibGDX. I will go over my experience creating a simple side scrolling beat em up starting from design all the way to a fully playable first level. LibGDX is a cross platform game development library, but for the purposes of this talk we will focus exclusively on making a game for Android with touch controls."
+  subtype: presentation
+  speakers: [9]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Develop A Privacy-Aware Web Service based GAE Powered Mobile Application"
+  description: "This presentation is going to walk Android and iOS developers through a Web service based, GAE enabled private mobile application. By adding a privacy layer on the top of an existing mobile application. I will walk you through the basics of building and publishing a privacy-aware Web service-based application to Google cloud platform. I go through the basics of how a standard privacy management framework (XACML) works and help developers write their first privacy-aware mobile or Web application."
+  subtype: presentation
+  speakers: [10]
+  language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 010
+  title: "The Lollipop Guild Gets A Job"
+  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply"
+  subtype: presentation
+  speakers: [11]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Adaptive Android Design Practice"
+  description: "In this talk, we will talk about how to create deliverable and adaptive design for Android apps from scratch. We will cover pretty much everything practical from looking for design resources to generating correct Specs and image sizes based on device sizes and densities . From this talk, you will also gain insights into the differences between iOS and Android in terms of design and implementations."
+  subtype: presentation
+  speakers: [13, 14]
+  language: en
+  complexity: "Beginner"
+-
+  id: 012
+  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"
+  description: "BLE modules such as the RN4020 shorten the development cycle to make custom sensor-, fitness-, and medical-related devices, with minimal capital costs. Joe will take you on a tour of using the module in an actual application: connecting it to an analog pressure sensor, configuring Bluetooth, using the module's scripting language, and how an Android app exchanges and displays BT data."
+  subtype: presentation
+  speakers: [12]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 013
+  title: "Intro to Google Tag Manager"
+  description: "Come Learn what Google Tag Manager is and how to use it on your website. Use Google Analytics on your website? Come learn a different way of implementing it and how to more efficiently track all the things on your website all while only adding one snippet of code to the page."
+  subtype: presentation
+  speakers: [15]
+  language: en
+  complexity: "Beginner"
+-
+  id: 014
+  title: "Introduction to Groovy and Gradle"
+  description: "Do you actually understand your Android Gradle build files? If not, then this live coding demo will get you started. We'll work through the basics of Groovy (the language Gradle is built on), Gradle, and the Android Gradle plugin. By the end of this talk you'll understand your build files (and more importantly, how to modify them to suit your needs)."
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: "Intermediate"

@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Michigan DevFest 2015"
+title: "Michigan GDG DevFest 2015"
 email: "michigandevfest@gmail.com"
 description: "Google Developers' DevFest in Southeast Michigan"
 baseurl: ""
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -65,15 +65,15 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Michigan GDG DevFest"
+aboutTitle: "About"
 aboutBlock:
- - {title: "", image: "devfest.jpg", text: "Join us for a full day of excellent presentations on Android and Google Web/Cloud technologies in the heart of downtown Detroit!" }
+ - {title: "", image: "mi_devfest_logo.svg", text: "Join us for a full day of excellent presentations on Android and Google Web/Cloud technologies in the heart of downtown Detroit!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "of pure Google technologies"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "of pure Google technologies"}
  - {count: "1", specialCharacter: "", info: "great day", detail: "of learning"}
 
 # Latest News Block
@@ -129,30 +129,30 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all presentations, coffee breaks, and lunch."
+ticketsInfo: "Tickets grant access to all of the day's events."
 ticketsOffers:
  -
   name: "Professional"
   price: "$50"
   priceCurrency: ""
-  buyButtonLink: "#"
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   featured: true
   ticketContentList: []
   validFrom: "2015-04-08T10:00"
   validThrough: "2015-05-08T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Student"
   price: "$25"
   priceCurrency: ""
-  buyButtonLink: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: []
   validFrom: "2015-04-08T10:00"
   validThrough: "2015-05-08T23:59"
-  disabled: true
+  disabled: false
 
 # Footer
 socialLinks:

@@ -2,11 +2,52 @@
   date: "2015-05-09"
   dateReadable: "May 9"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Android 1", color: "#90be4e"}
+    - {title: "Android 2", color: "#03a9f4"}
+    - {title: "Google Web", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [001, 001]
+      startTime: "9:00",
+      endTime: "9:20",
+      sessionIds: [307]
+    }
+    - {
+      startTime: "9:30",
+      endTime: "10:20",
+      sessionIds: [014, 014, 003]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:20",
+        sessionIds: [001, 002, 007]
+    }
+    - {
+      startTime: "11:30",
+      endTime: "12:20",
+      sessionIds: [006, 404, 013]
+    }
+    - {
+      startTime: "12:20",
+      endTime: "1:30",
+      sessionIds: [503]
+    }
+    - {
+      startTime: "1:30",
+      endTime: "2:20",
+      sessionIds: [004, 008, 009]
+    }
+    - {
+      startTime: "2:30",
+      endTime: "3:20",
+      sessionIds: [005, 010, 600]
+    }
+    - {
+      startTime: "3:30",
+      endTime: "4:20",
+      sessionIds: [011, 012, 600]
+    }
+    - {
+      startTime: "4:20",
+      endTime: "5:00",
+      sessionIds: [504]
     }
