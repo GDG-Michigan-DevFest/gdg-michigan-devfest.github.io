@@ -114,6 +114,18 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jayashreeravi"}
 - 
+  id: 17
+  name: "Christopher"
+  surname: "Smith"
+  company: ""
+  title: ""
+  bio: "Christopher is a Software Engineer who has worked backend C#, image processing, threading, sockets, ASP.net and now JavaScript and Angular. He can be found around Detroit and Ann Arbor at local developer meetups and has never meet a problem he wouldn't try to solve."
+  thumbnailUrl: ChristopherSmith.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/cmsmithco"}
+    - {name: "github", link: "https://github.com/QueueHammer"}
+- 
   id: 4
   name: "Peter"
   surname: "Stema"

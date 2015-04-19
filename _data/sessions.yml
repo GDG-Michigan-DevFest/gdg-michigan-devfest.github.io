@@ -128,3 +128,11 @@
   speakers: [16]
   language: en
   complexity: "Intermediate"
+-
+  id: 015
+  title: "Using Require.js with Angular.js; It depends."
+  description: "Angular has modules and dependency injection. Yet it does not load scripts or resolve any script dependencies it may have. This talk covers how to use Require.js to leverage async script loading and dependency resolution in your with your Angular.js modules. The patterns of each are similar yet both at times can be finicky. So let's teach the kids to play nicely."
+  subtype: presentation
+  speakers: [17]
+  language: en
+  complexity: "Intermediate"
