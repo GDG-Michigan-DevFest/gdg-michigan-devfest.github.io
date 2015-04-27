@@ -148,6 +148,14 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MichaelTorresCodeChameleon"}
     - {name: "github", link: "https://github.com/torresmi"}
+-
+  id: 18
+  name: "Jim"
+  surname: "Vitek"
+  company: "AppKey"
+  bio: "Jim Vitek is the founder AppKey, an android developer, and co-organizer of the Ann Arbor Android Google Developer Group (GDG-A3)."
+  thumbnailUrl: JimVitek.jpg
+  rockstar: true
 - 
   id: 14
   name: "David"

@@ -136,3 +136,11 @@
   speakers: [17]
   language: en
   complexity: "Intermediate"
+-
+  id: 016
+  title: "Codelab: Google Cloud Endpoints for Android"
+  description: "This codelab is an introduction to Google Cloud Endpoints, the technology that enables the publication of RESTful APIs which can easily be consumed by Android applications. We will start from an existing mobile Android application and connect it to a brand new backend powered by Cloud Endpoints. All development are done with the Android Studio IDE.<br/><br/>The original github repository for this codelab is here: https://github.com/GoogleCloudPlatform/endpoints-codelab-android/"
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: "Intermediate"
