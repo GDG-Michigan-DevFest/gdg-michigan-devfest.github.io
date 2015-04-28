@@ -6,6 +6,7 @@
     - {name: "Expedia", description: "Expedia", link: "http://www.lifeatexpedia.com", imageUrl: "expedia.svg"}
     - {name: "RIIS LLC", description: "RIIS LLC", link: "http://www.riis.com", imageUrl: "riis.jpg"}
     - {name: "Duo Security", description: "Duo Security", link: "http://www.duosecurity.com", imageUrl: "DuoSecurity.png", width: "67%"}
+    - {name: "Control-Tec", description: "Control-Tec", link: "http://www.control-tec.com", imageUrl: "controltec.png"}
 - 
   group: "Media Partners"
   elements:
