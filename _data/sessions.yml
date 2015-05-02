@@ -144,3 +144,11 @@
   speakers: [18]
   language: en
   complexity: "Intermediate"
+-
+  id: 017
+  title: "Alien Where? An Intro to Google Maps APIs"
+  description: "In this session, Kyle will walk you through setting up the API Key to plotting and customizing geodata points on a Google Map for your website/web app. Using UFO sighting location data in the USA, he will show how simple it is to plot various geolocations using the Google Maps JavaScript & Static Map APIs within a basic webpage. Then, if time allows, Kyle will also show how simple it is to port that into a basic mobile app (Android/iOS) using PhoneGap. From this talk, you'll learn the basics of utilizing the power of Google Maps and a few different creative ways to utilize the Maps APIs to customize how your data presents to your user."
+  subtype: presentation
+  speakers: [19]
+  language: en
+  complexity: "beginner"

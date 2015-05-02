@@ -21,6 +21,21 @@
   ribbon:
     - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
 - 
+  id: 19
+  name: "Kyle"
+  surname: "Paul"
+  company: "GDG Kansas City"
+  bio: "Kyle has a very diverse background but his primary focus is in web development. He also runs the GDG group in Kansas City. Outside of web development, he spends his time outdoors with his girlfriend photographing nature and capturing the shenanigans of their two cats (both of whom are very photogenic)."
+  thumbnailUrl: KylePaul.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Kansas City", url: "http://gdgkc.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KylePaul"}
+    - {name: "twitter", link: "https://twitter.com/kpaul86"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kylepaul"}
+    - {name: "github", link: "https://github.com/neojato"}
+- 
   id: 10
   name: "Nariman"
   surname: "Ammar"

@@ -24,7 +24,7 @@
     - {
       startTime: "11:30",
       endTime: "12:20",
-      sessionIds: [006, 404, 007]
+      sessionIds: [006, 404, 017]
     }
     - {
       startTime: "12:20",
@@ -34,7 +34,7 @@
     - {
       startTime: "1:30",
       endTime: "2:20",
-      sessionIds: [004, 008, 013]
+      sessionIds: [004, 008, 007]
     }
     - {
       startTime: "2:30",
@@ -44,7 +44,7 @@
     - {
       startTime: "3:30",
       endTime: "4:20",
-      sessionIds: [011, 012, 600]
+      sessionIds: [011, 012, 013]
     }
     - {
       startTime: "4:20",
