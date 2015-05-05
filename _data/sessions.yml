@@ -63,7 +63,7 @@
   subtype: presentation
   speakers: [7]
   language: en
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 007
   title: "Java Datastore SDK in Google App Engine"
