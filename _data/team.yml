@@ -2,8 +2,8 @@
   id: 0
   name: "Scott"
   surname: "Weber"
-  title: "Software Developer"
-  thumbnailUrl: ScottWeber.png
+  title: "Organizer"
+  thumbnailUrl: ScottWeber.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -16,7 +16,7 @@
   id: 1
   name: "Don"
   surname: "Ward"
-  title: "Team Lead"
+  title: "Organizer"
   thumbnailUrl: DonWard.jpg
   team: true
   ribbon: 
@@ -36,15 +36,15 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+DaveKoziol"}
     - {name: "twitter", link: "https://twitter.com/davekoziol"}
-- 
-  id: 3
-  name: "Nathan"
-  surname: "Hughes"
-  title: "Organizer"
-  thumbnailUrl: NateHughes.png
-  team: true
-  social: 
-    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
+#- 
+#  id: 3
+#  name: "Nathan"
+#  surname: "Hughes"
+#  title: "Organizer"
+#  thumbnailUrl: NateHughes.png
+#  team: true
+#  social: 
+#    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
 - 
   id: 4
   name: "David"
@@ -58,12 +58,22 @@
   id: 5
   name: "Jim"
   surname: "Vitek"
-  title: "Android Developer/Co-organizer of GDG-A3"
+  title: "Organizer"
   thumbnailUrl: JimVitek.jpg
   team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+JimVitek"}
     - {name: "twitter", link: "https://twitter.com/vitek"}
     - {name: "github", link: "https://github.com/jimvitek"}
-    
+-
+  id: 6
+  name: "Kris"
+  surname: "Peach"
+  title: "Organizer"
+  thumbnailUrl: KrisPeach.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
 
