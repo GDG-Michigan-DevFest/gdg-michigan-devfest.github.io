@@ -10,4 +10,4 @@
 - 
   group: "Media Partners"
   elements:
-#    - {name: "MTAM", description: "Mobile Technology Association of Michigan", link: "http://gomobilemichigan.com", imageUrl: "mtam.png"}
+    - {name: "MTAM", description: "Mobile Technology Association of Michigan", link: "http://gomobilemichigan.com", imageUrl: "mtam.png"}
