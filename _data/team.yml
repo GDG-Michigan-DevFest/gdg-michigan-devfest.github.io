@@ -1,30 +1,4 @@
 - 
-  id: 0
-  name: "Scott"
-  surname: "Weber"
-  title: "Organizer"
-  thumbnailUrl: ScottWeber.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ScottWeberD"}
-    - {name: "twitter", link: "https://twitter.com/ScottDWeber"}
-    - {name: "github", link: "https://github.com/scottdweber"}
-    - {name: "site", link: "http://scottweber.com/"}
-- 
-  id: 1
-  name: "Don"
-  surname: "Ward"
-  title: "Organizer"
-  thumbnailUrl: DonWard.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+DonWard"}
-    - {name: "github", link: "https://github.com/donwardpeng"}
-- 
   id: 2
   name: "Dave"
   surname: "Koziol"
@@ -36,24 +10,28 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+DaveKoziol"}
     - {name: "twitter", link: "https://twitter.com/davekoziol"}
-#- 
-#  id: 3
-#  name: "Nathan"
-#  surname: "Hughes"
-#  title: "Organizer"
-#  thumbnailUrl: NateHughes.png
-#  team: true
-#  social: 
-#    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
-- 
-  id: 4
-  name: "David"
-  surname: "Wang"
+-
+  id: 6
+  name: "Kris"
+  surname: "Peach"
   title: "Organizer"
-  thumbnailUrl: JingranWang.JPG
+  thumbnailUrl: KrisPeach.jpg
   team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+-
+  id: 7
+  name: "Ollie"
+  surname: "Townsend III"
+  title: "Organizer"
+  thumbnailUrl: OllieTownsend.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
+    - {name: "google-plus", link: "https://google.com/+netapexorg"}
+    - {name: "twitter", link: "https://twitter.com/netapex"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/netapex"}
 - 
   id: 5
   name: "Jim"
@@ -67,13 +45,48 @@
     - {name: "google-plus", link: "https://google.com/+JimVitek"}
     - {name: "twitter", link: "https://twitter.com/vitek"}
     - {name: "github", link: "https://github.com/jimvitek"}
--
-  id: 6
-  name: "Kris"
-  surname: "Peach"
+- 
+  id: 4
+  name: "David"
+  surname: "Wang"
   title: "Organizer"
-  thumbnailUrl: KrisPeach.jpg
+  thumbnailUrl: JingranWang.JPG
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
+- 
+  id: 1
+  name: "Don"
+  surname: "Ward"
+  title: "Organizer"
+  thumbnailUrl: DonWard.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+DonWard"}
+    - {name: "github", link: "https://github.com/donwardpeng"}
+- 
+  id: 0
+  name: "Scott"
+  surname: "Weber"
+  title: "Organizer"
+  thumbnailUrl: ScottWeber.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ScottWeberD"}
+    - {name: "twitter", link: "https://twitter.com/ScottDWeber"}
+    - {name: "github", link: "https://github.com/scottdweber"}
+    - {name: "site", link: "http://scottweber.com/"}
+#- 
+#  id: 3
+#  name: "Nathan"
+#  surname: "Hughes"
+#  title: "Organizer"
+#  thumbnailUrl: NateHughes.png
+#  team: true
+#  social: 
+#    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
 
