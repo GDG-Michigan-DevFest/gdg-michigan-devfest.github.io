@@ -5,9 +5,10 @@
 #    - {name: "Quicken Loans", description: "Quicken Loans", link: "http://www.quickenloans.com", imageUrl: "QuickenLoans.png"}
 #    - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
 #    - {name: "Expedia", description: "Expedia", link: "http://www.lifeatexpedia.com", imageUrl: "expedia.svg"}
-#    - {name: "RIIS LLC", description: "RIIS LLC", link: "http://www.riis.com", imageUrl: "riis.jpg"}
+    - {name: "RIIS LLC", description: "RIIS LLC", link: "http://www.riis.com", imageUrl: "riis.jpg"}
 #    - {name: "Control-Tec", description: "Control-Tec", link: "http://www.control-tec.com", imageUrl: "controltec.png"}
 - 
   group: "Media Partners"
   elements:
     - {name: "MTAM", description: "Mobile Technology Association of Michigan", link: "http://gomobilemichigan.com", imageUrl: "mtam.png"}
+    - {name: "MITechNews", description: "MITechNews", link: "http://mitechnews.com/", imageUrl: "mitechnews.png"}
