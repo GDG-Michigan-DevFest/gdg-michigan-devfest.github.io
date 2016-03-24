@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
+#bottomNavigationLinks:
+# - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "April 30, 2016"
 #typeoutTextValues: '"Quicken", "Loans", "Qube", "Building", "Detroit"'
 #typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
+# - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -132,26 +132,71 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all of the day's events."
 ticketsOffers:
  -
-  name: "Professional"
+  name: "Professional Early Bird"
   price: "$50"
   priceCurrency: ""
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   featured: true
   ticketContentList: []
-  validFrom: "2016-04-01T10:00"
-  validThrough: "2016-04-30T23:59"
+  ticketsNumber: 150
+  validFrom: "2016-03-21T10:00"
+  validThrough: "2016-04-03T23:30"
+  disabled: false
+ -
+  name: "Professional"
+  price: "$60"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  ticketContentList: []
+  validFrom: "2016-04-03T23:30"
+  validThrough: "2016-04-26T23:30"
   disabled: true
  -
-  name: "Student"
+  name: "Professional Late Bird"
+  price: "$75"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  ticketContentList: []
+  validFrom: "2016-04-26T23:30"
+  validThrough: "2016-04-30T09:00"
+  disabled: true
+ -
+  name: "Student Early Bird"
   price: "$25"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  featured: true
+  ticketsNumber: 50
+  additionalInfo: "Requires a valid student ID at the conference check in."
+  ticketContentList: []
+  validFrom: "2016-03-21T10:00"
+  validThrough: "2016-04-03T23:30"
+  disabled: false
+ -
+  name: "Student"
+  price: "$30"
   priceCurrency: ""
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: []
-  validFrom: "2016-04-01T10:00"
-  validThrough: "2016-04-30T23:59"
+  validFrom: "2016-04-03T23:30"
+  validThrough: "2016-04-26T23:30"
+  disabled: true
+ -
+  name: "Student Late Bird"
+  price: "$40"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in."
+  ticketContentList: []
+  validFrom: "2016-04-26T23:30"
+  validThrough: "2016-04-30T09:00"
   disabled: true
 
 # Footer
