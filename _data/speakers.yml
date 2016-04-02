@@ -1,92 +1,143 @@
--
-  id: 16
-  name: "Dan"
-  surname: "Lew"
-  bio: "Dan Lew has been working on the railroad, all the live-long day. He is also an Android Google Developer Expert who has worked on Android versions of apps such as FlightTrack, Expedia, and Trello."
-  company: "Trello"
-  thumbnailUrl: DanLew.jpg
+#-
+#  id: 16
+#  name: "Dan"
+#  surname: "Lew"
+#  bio: "Dan Lew has been working on the railroad, all the live-long day. He is also an Android Google Developer Expert who has worked on Android versions of apps such as FlightTrack, Expedia, and Trello."
+#  company: "Trello"
+#  thumbnailUrl: DanLew.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/danlew42"}
+#    - {name: "site", link: "http://danlew.net/"}
+#  ribbon:
+#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#-
+#  id: 15
+#  name: "Dan"
+#  surname: "Baran"
+#  bio: "Dan Baran is a web developer by day and a data nerd by night. He also runs the GDG in Chicago. He spends his time coding in HTML, JavaScript, PHP."
+#  thumbnailUrl: DanBaran.jpg
+#  rockstar: true
+#  ribbon:
+#    - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
+#- 
+#  id: 19
+#  name: "Kyle"
+#  surname: "Paul"
+#  company: "GDG Kansas City"
+#  bio: "Kyle has a very diverse background but his primary focus is in web development. He also runs the GDG group in Kansas City. Outside of web development, he spends his time outdoors with his girlfriend photographing nature and capturing the shenanigans of their two cats (both of whom are very photogenic)."
+#  thumbnailUrl: KylePaul.jpg
+#  rockstar: true
+#  ribbon:
+#    - {abbr: "GDG", title: "GDG Kansas City", url: "http://gdgkc.org/" }
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+KylePaul"}
+#    - {name: "twitter", link: "https://twitter.com/kpaul86"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/kylepaul"}
+#    - {name: "github", link: "https://github.com/neojato"}
+#- 
+#  id: 10
+#  name: "Nariman"
+#  surname: "Ammar"
+#  title: "PhD Candidate"
+#  company: "Wayne State University"
+#  bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
+#  thumbnailUrl: NarimanAmmar.jpg
+#  social:
+#    - {name: "github", link: "https://github.com/nammar"}
+#    - {name: "twitter", link: "https://twitter.com/nammar"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/nammar"}
+#    - {name: "google-plus", link: "https://plus.google.com/117421082682879103283/posts"}
+#  rockstar: true
+#- 
+#  id: 3
+#  name: "Stan"
+#  surname: "Green"
+#  company: "The Ultra Signal"
+#  title: "Chief Innovator"
+#  bio: "Stan has been working with relational databases for longer than he cares to admit. He also started programming in Java when it was largely used for applets. He as worked in many database tools including, but not limited to, Oracle, Sybase, MS SQL Server. He once sat for and passed a DBA certification exam. Now he has made the switch to development in Android."
+#  thumbnailUrl: StanGreen.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/stangreen"}
+#- 
+#  id: 12
+#  name: "Joe"
+#  surname: "Glandorf"
+#  bio: "Joe Glandorf, a contract software engineer in Ann Arbor, has worked in the infotainment, CNC, and resistance welding industries, and has developed software for QNX, Windows/RTX, and Android. He holds amateur radio license AC8ES."
+#  thumbnailUrl: JoeGlandorf.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "github", link: "https://github.com/jglandorf"}
+#- 
+#  id: 11
+#  name: "David"
+#  surname: "McKinnon"
+#  company: "Independent Android Developer"
+#  bio: "David McKinnon is an independent software developer who has worked in Metro-Detroit since 1990. He has worked on a variety of Android projects since 2011 including a large pizza ordering app, a signing agents app for a title insurance provider and various poc and research projects. He is an organizer of the Detroit Java User Group and the founder of the DevDay conferences organized for software developers in the Detroit area."
+#  thumbnailUrl: DavidMcKinnon.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/detroitjava"}
+#    - {name: "github", link: "https://github.com/davidmckinnon"}
+- 
+  id: 8
+  name: "Kevin"
+  surname: "Carpenter"
+  company: "Notion AI"
+  title: "Android Developer"
+  bio: "Kevin Carpenter is an Android developer at Notion AI, in Ann Arbor, Michigan. Prior to that, he worked as a test engineer and Android developer at Expedia, Inc."
+  thumbnailUrl: KevinCarpenter.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/danlew42"}
-    - {name: "site", link: "http://danlew.net/"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {name: "site", link: "http://www.kevcar.me/"}
+-
+  id: 9
+  name: "Brennan"
+  surname: "Crispin"
+  company: "iRule"
+  title: "Software Engineer"
+  bio: "Brennan is a software developer at iRule, a home automation software company, right here in Detroit. He works mostly on the web backend side of things, but has worked on the rest of the stack at one time or another. Brennan is a huge fan of trail running, Raspberry Pi's, and jamming out network tools in Python."
+  thumbnailUrl: BrennanCrispin.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/brennandetroit"}
+-
+  id: 14
+  name: "Dean"
+  surname: "Dreon"
+  company: "Quicken Loans"
+  title: "Software Engineer"
+  bio: "Dean has been a programmer with Quicken Loans for two years. In January, 2015 he joined a team that was implementing Material Design, which lead to his introduction to Google's Polymer. Since then, he has seen the Polymer project go from beta to a production-ready web component library, complete with a sizable suite of useful components. Along the way, Dean, like the Polymer project, has grown in his understanding of front-end web development and the role Polymer and Web Components can play in it. :-)"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/DeanMDreon"}
+    - {name: "github", link: "https://github.com/dmdreon"}
+    - {name: "facebook", link: "https://facebook.com/dean.dreon"}
+-
+  id: 12
+  name: "Dhiwakar"
+  surname: "Mani"
+  company: "Title Source"
+  title: "Sr Mobile Application Developer"
+  bio: "Innovation is the key to unlock the success."
+  thumbnailUrl: DhiwakarMani.jpg 
 -
   id: 15
-  name: "Dan"
-  surname: "Baran"
-  bio: "Dan Baran is a web developer by day and a data nerd by night. He also runs the GDG in Chicago. He spends his time coding in HTML, JavaScript, PHP."
-  thumbnailUrl: DanBaran.jpg
+  name: "Ken"
+  surname: "Morse"
+  company: "ILIUM SOFTWARE"
+  title: "Managing Partner"
+  bio: "Ken Morse started out his software career in the early 1980s doing vision research at The University of Michigan Medical School. In the 1990s, he held several positions at Comshare including Director of Research and Director of the decision support applications and executive information systems group. In addition, he managed Comshare’s developments efforts in the Far East, working to ensure that products were built to support users in Asian countries.\n\nIn early 1999 Ken moved to Ilium Software, a privately held, Independent Software vendor specializing in applications for mobile devices. Ilium Software has produced several popular mobile applications including the award-winning eWallet and ListPro packages."
+  thumbnailUrl: KenMorse.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
-- 
-  id: 19
-  name: "Kyle"
-  surname: "Paul"
-  company: "GDG Kansas City"
-  bio: "Kyle has a very diverse background but his primary focus is in web development. He also runs the GDG group in Kansas City. Outside of web development, he spends his time outdoors with his girlfriend photographing nature and capturing the shenanigans of their two cats (both of whom are very photogenic)."
-  thumbnailUrl: KylePaul.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Kansas City", url: "http://gdgkc.org/" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+KylePaul"}
-    - {name: "twitter", link: "https://twitter.com/kpaul86"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kylepaul"}
-    - {name: "github", link: "https://github.com/neojato"}
-- 
-  id: 10
-  name: "Nariman"
-  surname: "Ammar"
-  title: "PhD Candidate"
-  company: "Wayne State University"
-  bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
-  thumbnailUrl: NarimanAmmar.jpg
-  social:
-    - {name: "github", link: "https://github.com/nammar"}
-    - {name: "twitter", link: "https://twitter.com/nammar"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nammar"}
-    - {name: "google-plus", link: "https://plus.google.com/117421082682879103283/posts"}
-  rockstar: true
-- 
-  id: 3
-  name: "Stan"
-  surname: "Green"
-  company: "The Ultra Signal"
-  title: "Chief Innovator"
-  bio: "Stan has been working with relational databases for longer than he cares to admit. He also started programming in Java when it was largely used for applets. He as worked in many database tools including, but not limited to, Oracle, Sybase, MS SQL Server. He once sat for and passed a DBA certification exam. Now he has made the switch to development in Android."
-  thumbnailUrl: StanGreen.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/stangreen"}
-- 
-  id: 12
-  name: "Joe"
-  surname: "Glandorf"
-  bio: "Joe Glandorf, a contract software engineer in Ann Arbor, has worked in the infotainment, CNC, and resistance welding industries, and has developed software for QNX, Windows/RTX, and Android. He holds amateur radio license AC8ES."
-  thumbnailUrl: JoeGlandorf.jpg
-  rockstar: true
-  social: 
-    - {name: "github", link: "https://github.com/jglandorf"}
-- 
-  id: 11
-  name: "David"
-  surname: "McKinnon"
-  company: "Independent Android Developer"
-  bio: "David McKinnon is an independent software developer who has worked in Metro-Detroit since 1990. He has worked on a variety of Android projects since 2011 including a large pizza ordering app, a signing agents app for a title insurance provider and various poc and research projects. He is an organizer of the Detroit Java User Group and the founder of the DevDay conferences organized for software developers in the Detroit area."
-  thumbnailUrl: DavidMcKinnon.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/detroitjava"}
-    - {name: "github", link: "https://github.com/davidmckinnon"}
 - 
   id: 6
   name: "Godfrey"
   surname: "Nolan"
   company: "RIIS LLC"
   title: "Founder and President"
-  bio: "Godfrey Nolan is Founder and President of RIIS, an IT services firm specializing in mobile development in the Detroit Metro area.  He is also author of Bulletproof Android: Practical Advice for Building Secure Apps (Addison-Wesley Professional, 2014), Android Best Practices (Apress, 2013), Decompiling Android (Apress, 2012) and Decompiling Java (Apress, 2004) and has written numerous articles for magazines and newspapers in the United States, the United Kingdom, and Ireland."
+  bio: "Godfrey Nolan is founder and president of RIIS LLC a mobile development firm in the Detroit Metro area. He is also author of Agile Android (Apress), Bulletproof Android (Pearson), Android Best Practices (Apress), Decompiling Java (Apress) and Decompiling Android (Apress). Godfrey has spoken at several AnDevcon's as well as DroidCon, JavaOne, ASP-Connections, VSLive, Codemash, Code PaLOUsa, 1DevDay and many local Java and .Net user groups on a wide range of topics such as Continuous Integration, Agile best practices and mobile security."
   thumbnailUrl: GodfreyNolan.jpg
   rockstar: true
   social: 
@@ -95,101 +146,136 @@
   id: 7
   name: "Michael"
   surname: "Pardo"
-  company: "Notion AI, Inc."
-  title: "Senior Android Engineer"
-  bio: "Michael Pardo is a Senior Android Engineer at Notion. He has been writing and publishing featured Android apps since the App Store launched in 2008. He also authors and contributes to open source projects like ActiveAndroid and Ollie."
+  company: "Notion AI"
+  title: "Android Lead"
+  bio: "Michael has been writing featured Android apps and libraries since 2008 and now leads the Android team at Notion."
   thumbnailUrl: MichaelPardo.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MichaelPardo"}
     - {name: "twitter", link: "https://twitter.com/pardom"}
     - {name: "github", link: "https://github.com/pardom"}
-    - {name: "site", link: "http://michaelpardo.com/"}
-- 
-  id: 9
-  name: "Jason"
-  surname: "Petterson"
-  company: "Broken Shotgun L.L.C."
-  title: "Founder"
-  bio: "Jason is the Founder of Broken Shotgun, a Metro Detroit game development company, and also an Android Developer at Detroit Labs. Making things is in his blood, so when Jason is not writing code, he is making laughs performing improv or experimenting with flavors while home brewing beer."
-  thumbnailUrl: JasonPetterson.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+Brokenshotgun"}
-    - {name: "twitter", link: "https://twitter.com/ChunkyBrewster"}
-    - {name: "github", link: "https://github.com/ickybodclay"}
-- 
-  id: 8
-  name: "Jayashree"
-  surname: "Ravi"
-  company: "Mobi Boot Camp Corp."
-  bio: "Jayashree Ravi, has been a hands-on techie for the last two decades. She has a Master of Science degree from Wayne State University along with several industry certifications which includes SCJP (Sun Certified Java Programmer) and SCEA (Sun Certified Enterprise Architect). She not only develops products and platforms with a team of Engineers fully trained by her, she also teaches Mobile Application Development, Cloud based systems design and implementation, Big Data system design and implementation for students and professionals at her own training company Mobi Boot Camp Corp, Wayne State University, Grand Circus and several other training companies all over US."
-  thumbnailUrl: JayashreeRavi.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jayashreeravi"}
-- 
-  id: 17
-  name: "Christopher"
-  surname: "Smith"
-  company: ""
-  title: ""
-  bio: "Christopher is a Software Engineer who has worked backend C#, image processing, threading, sockets, ASP.net and now JavaScript and Angular. He can be found around Detroit and Ann Arbor at local developer meetups and has never meet a problem he wouldn't try to solve."
-  thumbnailUrl: ChristopherSmith.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://www.twitter.com/cmsmithco"}
-    - {name: "github", link: "https://github.com/QueueHammer"}
-- 
-  id: 4
-  name: "Peter"
-  surname: "Stema"
-  company: "United Health Care/Optum Technologies"
-  title: "Senior Software Developer"
-  bio: "Peter has been using computer graphics since the mid 1980s, starting with his trusty VIC 20. He started code for the web in the mid 1990s. He currently is a Senior Software Developer at United Health Care/Optum Technologies. Is passionate about making cool software and learning new things. A life long musician he favors playing vintage guitars and amps."
-  thumbnailUrl: PeterStema.jpg 
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111"}
-- 
-  id: 5
-  name: "Michael"
-  surname: "Torres"
-  company: "Notion AI, Inc."
-  title: "Android Developer"
-  bio: 'Michael Torres is an Android app developer with Notion AI, Inc.'
-  thumbnailUrl: MichaelTorres.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MichaelTorresCodeChameleon"}
-    - {name: "github", link: "https://github.com/torresmi"}
+    - {name: "site", link: "https://speakerdeck.com/pardom"}
 -
-  id: 18
-  name: "Jim"
-  surname: "Vitek"
-  company: "AppKey"
-  bio: "Jim Vitek is the founder AppKey, an android developer, and co-organizer of the Ann Arbor Android Google Developer Group (GDG-A3)."
-  thumbnailUrl: JimVitek.jpg
-  rockstar: true
-- 
-  id: 14
-  name: "David"
-  surname: "Wang"
-  company: "Android Developer"
-  bio: "David gave up PHP and started developing Android apps in 2010, and hasn't looked back. He's worked on many apps from small to large, with a passion for Android-based design, convincing clients to give up their iOS designs in favor of Holo, and more recently, Material."
-  thumbnailUrl: JingranWang.JPG
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
-- 
   id: 13
-  name: "Ni"
-  surname: "Yan"
-  company: "Mango Languages"
-  title: "UX/UI designer"
-  bio: "Ni has a background of Journalism and Communication in Beijing Normal University, and she got a master degree in Human Computer Interaction and Social Computing at University of Michigan School of Information. Ni is always driven by her artistic nature and passion of creativity. With experience working in several tech startups and projects, she loves entrepreneurial spirit, innovation, team-working, rapid iterations, prototyping, and front-end developing. She is especially passionate in designing and developing mobile and web apps for education, games for good, healthcare and motion-sensing technologies."
-  thumbnailUrl: NiYan.jpg
+  name: "Dan"
+  surname: "Schnau"
+  company: "Quicken Loans"
+  title: "Software Engineer"
+  bio: "Dan Schnau is a software engineer with five years experience on web applications with audiences ranging from a dozen users to millions. He has spent the last year focused on front-end technology working at Quicken Loans on a Polymer-powered application."
+  thumbnailUrl: DanSchnau.jpg
   rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/ni-yan/39/ab2/843/en"}
-    - {name: "site", link: "http://anniedream.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/dsschnau"}
+    - {name: "github", link: "https://github.com/dsschnau"}
+-
+  id: 10
+  name: "Scott"
+  surname: "Showalter"
+  company: "Michigan First Credit Union"
+  title: "Mobile Experience Designer"
+  bio: "Scott Showalter is a mobile experience designer practicing Lean UX in the wild. Scott takes UX well into the future, proving that we can fold users into the strategy and planning stages of product development before a single line of code is crafted or pixel is painted. Scott leads two Lean UX meetups: one in northwest Ohio and another in Ann Arbor Michigan, where he spreads the news that Lean UX can make sure we're solving problems people actually care about and innovating products that people will love and use."
+  thumbnailUrl: ScottShowalter.jpg
+  rockstar: true
+-
+  id: 16
+  name: "Mike"
+  surname: "Wolfson"
+  company: "Able Android LLC"
+  title: "Independent Dev"
+  bio: "Mike is a passionate mobile designer/developer working out of Phoenix. He has been working in the software field for more than 20 years, and with Android since its introduction. Currently, he develops Android applications for an IoT startup, in the automotive and payments space. He is a Google Developer Expert in Android, and the author of the book “Android Developer Tools Essentials” published by O’Reilly.Mike has spoken about Android and mobile development at a variety of conferences and user groups (including Oscon, AnDevCon, GDGSv, Droidcon Turin, and others). When he is not geeking out about phones, he enjoys the outdoors (snowboarding, hiking, scuba diving), collecting PEZ dispensers, and chasing his young (but quick) daughter."
+  thumbnailUrl: MikeWolfson.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "twitter", "https://twitter.com/mikewolfson"}
+    - {name: "google-plus", "https://plus.google.com/+MichaelWolfson"}
+#- 
+#  id: 9
+#  name: "Jason"
+#  surname: "Petterson"
+#  company: "Broken Shotgun L.L.C."
+#  title: "Founder"
+#  bio: "Jason is the Founder of Broken Shotgun, a Metro Detroit game development company, and also an Android Developer at Detroit Labs. Making things is in his blood, so when Jason is not writing code, he is making laughs performing improv or experimenting with flavors while home brewing beer."
+#  thumbnailUrl: JasonPetterson.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+Brokenshotgun"}
+#    - {name: "twitter", link: "https://twitter.com/ChunkyBrewster"}
+#    - {name: "github", link: "https://github.com/ickybodclay"}
+#- 
+#  id: 8
+#  name: "Jayashree"
+#  surname: "Ravi"
+#  company: "Mobi Boot Camp Corp."
+#  bio: "Jayashree Ravi, has been a hands-on techie for the last two decades. She has a Master of Science degree from Wayne State University along with several industry certifications which includes SCJP (Sun Certified Java Programmer) and SCEA (Sun Certified Enterprise Architect). She not only develops products and platforms with a team of Engineers fully trained by her, she also teaches Mobile Application Development, Cloud based systems design and implementation, Big Data system design and implementation for students and professionals at her own training company Mobi Boot Camp Corp, Wayne State University, Grand Circus and several other training companies all over US."
+#  thumbnailUrl: JayashreeRavi.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/jayashreeravi"}
+#- 
+#  id: 17
+#  name: "Christopher"
+#  surname: "Smith"
+#  company: ""
+#  title: ""
+#  bio: "Christopher is a Software Engineer who has worked backend C#, image processing, threading, sockets, ASP.net and now JavaScript and Angular. He can be found around Detroit and Ann Arbor at local developer meetups and has never meet a problem he wouldn't try to solve."
+#  thumbnailUrl: ChristopherSmith.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "twitter", link: "https://www.twitter.com/cmsmithco"}
+#    - {name: "github", link: "https://github.com/QueueHammer"}
+#- 
+#  id: 4
+#  name: "Peter"
+#  surname: "Stema"
+#  company: "United Health Care/Optum Technologies"
+#  title: "Senior Software Developer"
+#  bio: "Peter has been using computer graphics since the mid 1980s, starting with his trusty VIC 20. He started code for the web in the mid 1990s. He currently is a Senior Software Developer at United Health Care/Optum Technologies. Is passionate about making cool software and learning new things. A life long musician he favors playing vintage guitars and amps."
+#  thumbnailUrl: PeterStema.jpg 
+#  rockstar: true
+#  social: 
+#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111"}
+#- 
+#  id: 5
+#  name: "Michael"
+#  surname: "Torres"
+#  company: "Notion AI, Inc."
+#  title: "Android Developer"
+#  bio: 'Michael Torres is an Android app developer with Notion AI, Inc.'
+#  thumbnailUrl: MichaelTorres.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+MichaelTorresCodeChameleon"}
+#    - {name: "github", link: "https://github.com/torresmi"}
+#-
+#  id: 18
+#  name: "Jim"
+#  surname: "Vitek"
+#  company: "AppKey"
+#  bio: "Jim Vitek is the founder AppKey, an android developer, and co-organizer of the Ann Arbor Android Google Developer Group (GDG-A3)."
+#  thumbnailUrl: JimVitek.jpg
+#  rockstar: true
+#- 
+#  id: 14
+#  name: "David"
+#  surname: "Wang"
+#  company: "Android Developer"
+#  bio: "David gave up PHP and started developing Android apps in 2010, and hasn't looked back. He's worked on many apps from small to large, with a passion for Android-based design, convincing clients to give up their iOS designs in favor of Holo, and more recently, Material."
+#  thumbnailUrl: JingranWang.JPG
+#  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
+#- 
+#  id: 13
+#  name: "Ni"
+#  surname: "Yan"
+#  company: "Mango Languages"
+#  title: "UX/UI designer"
+#  bio: "Ni has a background of Journalism and Communication in Beijing Normal University, and she got a master degree in Human Computer Interaction and Social Computing at University of Michigan School of Information. Ni is always driven by her artistic nature and passion of creativity. With experience working in several tech startups and projects, she loves entrepreneurial spirit, innovation, team-working, rapid iterations, prototyping, and front-end developing. She is especially passionate in designing and developing mobile and web apps for education, games for good, healthcare and motion-sensing technologies."
+#  thumbnailUrl: NiYan.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "linkedin", link: "https://www.linkedin.com/pub/ni-yan/39/ab2/843/en"}
+#    - {name: "site", link: "http://anniedream.com/"}

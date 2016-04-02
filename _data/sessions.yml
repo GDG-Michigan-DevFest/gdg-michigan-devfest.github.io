@@ -1,5 +1,5 @@
 -
-  id: 307
+  id: 501
   title: "Breakfast/Opening"
   place: "Kitchen and Breakout Room"
   service: true
@@ -20,135 +20,137 @@
   service: true 
 -
   id: 001
-  title: "Getting Started with SQLite"
-  description: "SQLlite, which is the standard database for Android, is an excellent way to maintain persistent data in an app. Many apps would benefit from making use of the database. At the conclusion of this presentation, you should be able to perform basic database design, create a database and use (query, insert, update, and delete) the database in an app. It will also cover basic cursors and linking cursors to list views."
+  title: "Material Design Everywhere using the Android Support Libraries"
+  description: "Android 5.0 was one of the more exciting releases ever - especially with the introduction of the Material design. The specifications describe a beautiful UI, that can be a challenging for developers to implement, particularly if they must support backwards compatibility.\n\nIt just became easier with the release of the 'Android Design Support Library' (and the previously released 'AppCompat Library'). Developers now have the tools that make it simple to create Material compliant apps - that will work and look great on almost all devices (even ones running 2.1).\n\nIn this presentation I will highlight some important components of these libraries, and demonstrate how to use them effectively.\n\nIt is just the beginning for Material design - come learn about the important tools that make it easy to be part of the revolution."
   subtype: presentation
-  speakers: [3]
+  speakers: [16]
   language: en
   complexity: "Beginner"
 -
   id: 002
-  title: "CodeLab - TBD"
-  description: "This will be a hands-on CodeLab."
+  title: "Android TDD"
+  description: "There's no reason why Agile practices and Android can't go hand in hand. In this session, learn how to add TDD (test-driven development) to your next Android project. Thankfully, you no longer have to rely on Google's jUnit3 testing framework now that Google have rolled out jUnit4 testing in Android Studio. The class begins with how to set up Android Studio to do unit tests and mocking. We then move on to use unit testing to create a sample app to show best practices for creating a test-driven environment."
   subtype: presentation
-  speakers: []
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
 -
   id: 003
-  title: "Introduction to SVG"
-  description: "With the plethora of of devices used to access the web. And all the different screen sizes, different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it, and it enjoys broad support in most modern environments.SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly.<br><br> This talk will cover:<br>Why use SVG<br>What is SVG<br>Browser Support<br>Simple SVG objects/elements (code examples)<br>How to construct more complex SVGs (code examples)<br>How to clean up those files for use (code examples)<br>How to get them on the page (code examples)<br>How to use CSS with SVG (code examples)<br>Ways to animate SVG (code examples)<br>Javascript control (code examples)<br>Accessibility/SEO (code examples)"
+  title: "Automating Android Builds for Continuous Integration"
+  description: "This talk will be about setting up an Android build environment for Continuous Integration and will include setting up a CI server, using an SCM system, and automatically rebuilding the project whenever a change is made."
   subtype: presentation
-  speakers: [4]
+  speakers: [15]
   language: en
   complexity: "Beginner" 
 -
   id: 004
-  title: "Observing RxJava on Android"
-  description: "Everyone wants smooth, responsive, and robust apps. Yet asynchronous programming on Android leaves a lot to be desired. RxJava brings the Functional Reactive Programming paradigm to Java, making concurrency easy and enjoyable!<br/><br/>This talk will discuss the fundamentals and benefits of RxJava on Android, and help ease the learning curve of the FRP paradigm. See how to take advantage of Observables and Subscribers to keep your apps fast and reliable."
+  title: "Intro to Polymer"
+  description: "Google's Polymer library provides the ability to easily make reusable custom HTML elements, or Web Components. It also provides a suite of Web Components providing everything from ajax to Material Design buttons. We have been using Polymer in production since January 2015. We will present an introduction to the features of Polymer and how you might leverage Web Components in your next application."
   subtype: presentation
-  speakers: [5]
+  speakers: [13, 14]
   language: en
   complexity: "Intermediate" 
 -
   id: 005
-  title: "Developing for Android Auto"
-  description: "Google released a couple of APIs for Android Auto. In this session we look at what you can and cannot do with the messaging and audio APIs.  We'll take a deep dive into some reference apps and also look at how to convert an existing app to the Android Auto framework."
+  title: "Parse Migration"
+  description: "Migrating from Parse to the parse server is a fairly simple process and they have provided a migration tool to migrate the database and also as it's built on standard open source technologies such as Node.js and MongoDB so it's easy to find resources to maintain the backend of your application moving forward."
   subtype: presentation
-  speakers: [6]
+  speakers: [12]
   language: en
   complexity: "Intermediate" 
 -
   id: 006
-  title: "Kotlin: New Hope in a Java 6 Wasteland"
-  description: "Java 8 was released last year adding lambdas, streams, and many other language improvements. Java 9 is already in the works, but with over half of Android devices stuck using Java 6 will we ever get to use a modern language? <br>Introducing Kotlin: a statically typed JVM language backed by JetBrains. With features like lambdas, class extensions, and null-safety, it aims to be concise, expressive, and highly interoperable. In this presentation we will learn how powerful Kotlin can be when added to your Android tool belt."
+  title: "Clean Architecture"
+  description: "A practical guide to making your code more readable, testable, and maintainable using clean architecture."
   subtype: presentation
   speakers: [7]
   language: en
   complexity: "Intermediate"
 -
   id: 007
-  title: "Java Datastore SDK in Google App Engine"
-  description: "While Google App Engine (GAE) does not support traditional relational databases like MySQL, Oracle etc, it does support NoSQL Datastore providing all the features for a typical Big Data system. We will explore the many different API's (JDO, JPA and low-level Entity) that are available to store data."
+  title: "MV-WTF?"
+  description: "This presentation will explore some of the existing view presentation options that developers have at their disposal, including: Model View Controller (MVC), Model View Presentation (MVP), Model View ViewModel (MVVM)\n\nAt the conclusion of this presentation, we will look at a less commonly implemented architecture: Model View Intent (MVI). At Notion, we have developed a lightweight library to facilitate the implementation of MVI, as a means of improving upon the previously established options."
   subtype: presentation
   speakers: [8]
   language: en
   complexity: "Intermediate"
 -
   id: 008
-  title: "Tales of Game Development with LibGDX - A Postmortem"
-  description: "Game Development is scary; there are so many languages, libraries, and IDEs to choose from! This talk will advocate the pros and woes of my current favorite weapon of choice: LibGDX. I will go over my experience creating a simple side scrolling beat em up starting from design all the way to a fully playable first level. LibGDX is a cross platform game development library, but for the purposes of this talk we will focus exclusively on making a game for Android with touch controls."
+  title: "Getting Started with Endpoints API"
+  description: "Endpoints API is a really useful tool that allows you to add a web backend to your mobile apps without having to sweat all the api details. This presentations will be an introduction to getting Google Endpoints API up and running. We'll go over creating the endpoints (Java and Python), linking them to an app (Android focused, but we will touch on iOS), and if time allows hit OAuth and some use cases."
   subtype: presentation
   speakers: [9]
   language: en
   complexity: "Intermediate"
 -
   id: 009
-  title: "Develop A Privacy-Aware Web Service based GAE Powered Mobile Application"
-  description: "This presentation is going to walk Android and iOS developers through a Web service based, GAE enabled private mobile application. By adding a privacy layer on the top of an existing mobile application. I will walk you through the basics of building and publishing a privacy-aware Web service-based application to Google cloud platform. I go through the basics of how a standard privacy management framework (XACML) works and help developers write their first privacy-aware mobile or Web application."
+  title: "Codeless Prototyping: Validate Your App Ideas Before Developing Them"
+  description: "This workshop will focus on Lean Startup emergent practices on how to validate features or product ideas before writing a single line of code, to make sure you're building the right thing. In this session, we will review customer development techniques as you go from user interviews to prototypes to code. We'll dive deeply into prototyping techniques and a build-measure-learn cycle that minimizes wasted effort building the wrong product. We'll also discuss how to use this process to acquire your early customers. Whether you're a beginner, novice or master developer, you'll be able to put the techniques you learn into practice first thing Monday morning, to make sure you're building an app or product that people will be passionate about using."
   subtype: presentation
   speakers: [10]
   language: en
-  complexity: "Expert"
--
-  id: 010
-  title: "The Lollipop Guild Gets A Job"
-  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply"
-  subtype: presentation
-  speakers: [11]
-  language: en
-  complexity: "Intermediate"
--
-  id: 011
-  title: "Adaptive Android Design Practice"
-  description: "In this talk, we will talk about how to create deliverable and adaptive design for Android apps from scratch. We will cover pretty much everything practical from looking for design resources to generating correct Specs and image sizes based on device sizes and densities . From this talk, you will also gain insights into the differences between iOS and Android in terms of design and implementations."
-  subtype: presentation
-  speakers: [13, 14]
-  language: en
   complexity: "Beginner"
--
-  id: 012
-  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"
-  description: "BLE modules such as the RN4020 shorten the development cycle to make custom sensor-, fitness-, and medical-related devices, with minimal capital costs. Joe will take you on a tour of using the module in an actual application: connecting it to an analog pressure sensor, configuring Bluetooth, using the module's scripting language, and how an Android app exchanges and displays BT data."
-  subtype: presentation
-  speakers: [12]
-  language: en
-  complexity: "Intermediate"
--
-  id: 013
-  title: "Intro to Google Tag Manager"
-  description: "Come Learn what Google Tag Manager is and how to use it on your website. Use Google Analytics on your website? Come learn a different way of implementing it and how to more efficiently track all the things on your website all while only adding one snippet of code to the page."
-  subtype: presentation
-  speakers: [15]
-  language: en
-  complexity: "Beginner"
--
-  id: 014
-  title: "Introduction to Groovy and Gradle"
-  description: "Do you actually understand your Android Gradle build files? If not, then this live coding demo will get you started. We'll work through the basics of Groovy (the language Gradle is built on), Gradle, and the Android Gradle plugin. By the end of this talk you'll understand your build files (and more importantly, how to modify them to suit your needs)."
-  subtype: presentation
-  speakers: [16]
-  language: en
-  complexity: "Intermediate"
--
-  id: 015
-  title: "Using Require.js with Angular.js; It depends."
-  description: "Angular has modules and dependency injection. Yet it does not load scripts or resolve any script dependencies it may have. This talk covers how to use Require.js to leverage async script loading and dependency resolution in your with your Angular.js modules. The patterns of each are similar yet both at times can be finicky. So let's teach the kids to play nicely."
-  subtype: presentation
-  speakers: [17]
-  language: en
-  complexity: "Intermediate"
--
-  id: 016
-  title: "Codelab: Google Cloud Endpoints for Android"
-  description: "This codelab is an introduction to Google Cloud Endpoints, the technology that enables the publication of RESTful APIs which can easily be consumed by Android applications. We will start from an existing mobile Android application and connect it to a brand new backend powered by Cloud Endpoints. All development are done with the Android Studio IDE.<br/><br/>The original github repository for this codelab is here: https://github.com/GoogleCloudPlatform/endpoints-codelab-android/"
-  subtype: presentation
-  speakers: [18]
-  language: en
-  complexity: "Intermediate"
--
-  id: 017
-  title: "Alien Where? An Intro to Google Maps APIs"
-  description: "In this session, Kyle will walk you through setting up the API Key to plotting and customizing geodata points on a Google Map for your website/web app. Using UFO sighting location data in the USA, he will show how simple it is to plot various geolocations using the Google Maps JavaScript & Static Map APIs within a basic webpage. Then, if time allows, Kyle will also show how simple it is to port that into a basic mobile app (Android/iOS) using PhoneGap. From this talk, you'll learn the basics of utilizing the power of Google Maps and a few different creative ways to utilize the Maps APIs to customize how your data presents to your user."
-  subtype: presentation
-  speakers: [19]
-  language: en
-  complexity: "beginner"
+#-
+#  id: 010
+#  title: "The Lollipop Guild Gets A Job"
+#  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply"
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 011
+#  title: "Adaptive Android Design Practice"
+#  description: "In this talk, we will talk about how to create deliverable and adaptive design for Android apps from scratch. We will cover pretty much everything practical from looking for design resources to generating correct Specs and image sizes based on device sizes and densities . From this talk, you will also gain insights into the differences between iOS and Android in terms of design and implementations."
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Beginner"
+#-
+#  id: 012
+#  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"
+#  description: "BLE modules such as the RN4020 shorten the development cycle to make custom sensor-, fitness-, and medical-related devices, with minimal capital costs. Joe will take you on a tour of using the module in an actual application: connecting it to an analog pressure sensor, configuring Bluetooth, using the module's scripting language, and how an Android app exchanges and displays BT data."
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 013
+#  title: "Intro to Google Tag Manager"
+#  description: "Come Learn what Google Tag Manager is and how to use it on your website. Use Google Analytics on your website? Come learn a different way of implementing it and how to more efficiently track all the things on your website all while only adding one snippet of code to the page."
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Beginner"
+#-
+#  id: 014
+#  title: "Introduction to Groovy and Gradle"
+#  description: "Do you actually understand your Android Gradle build files? If not, then this live coding demo will get you started. We'll work through the basics of Groovy (the language Gradle is built on), Gradle, and the Android Gradle plugin. By the end of this talk you'll understand your build files (and more importantly, how to modify them to suit your needs)."
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 015
+#  title: "Using Require.js with Angular.js; It depends."
+#  description: "Angular has modules and dependency injection. Yet it does not load scripts or resolve any script dependencies it may have. This talk covers how to use Require.js to leverage async script loading and dependency resolution in your with your Angular.js modules. The patterns of each are similar yet both at times can be finicky. So let's teach the kids to play nicely."
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 016
+#  title: "Codelab: Google Cloud Endpoints for Android"
+#  description: "This codelab is an introduction to Google Cloud Endpoints, the technology that enables the publication of RESTful APIs which can easily be consumed by Android applications. We will start from an existing mobile Android application and connect it to a brand new backend powered by Cloud Endpoints. All development are done with the Android Studio IDE.<br/><br/>The original github repository for this codelab is here: https://github.com/GoogleCloudPlatform/endpoints-codelab-android/"
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 017
+#  title: "Alien Where? An Intro to Google Maps APIs"
+#  description: "In this session, Kyle will walk you through setting up the API Key to plotting and customizing geodata points on a Google Map for your website/web app. Using UFO sighting location data in the USA, he will show how simple it is to plot various geolocations using the Google Maps JavaScript & Static Map APIs within a basic webpage. Then, if time allows, Kyle will also show how simple it is to port that into a basic mobile app (Android/iOS) using PhoneGap. From this talk, you'll learn the basics of utilizing the power of Google Maps and a few different creative ways to utilize the Maps APIs to customize how your data presents to your user."
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "beginner"
