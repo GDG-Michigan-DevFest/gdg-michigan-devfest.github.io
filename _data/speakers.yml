@@ -109,6 +109,7 @@
   company: "Quicken Loans"
   title: "Software Engineer"
   bio: "Dean has been a programmer with Quicken Loans for two years. In January, 2015 he joined a team that was implementing Material Design, which lead to his introduction to Google's Polymer. Since then, he has seen the Polymer project go from beta to a production-ready web component library, complete with a sizable suite of useful components. Along the way, Dean, like the Polymer project, has grown in his understanding of front-end web development and the role Polymer and Web Components can play in it. :-)"
+  thumbnailUrl: DeanDreon.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/DeanMDreon"}
