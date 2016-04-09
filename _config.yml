@@ -138,6 +138,8 @@ ticketsOffers:
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   featured: true
+  soldOut: true
+  soldOutText: "No Longer Available"
   ticketContentList: []
   ticketsNumber: 150
   validFrom: "2016-03-21T10:00"
@@ -152,7 +154,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-04-03T23:30"
   validThrough: "2016-04-26T23:30"
-  disabled: true
+  disabled: false
  -
   name: "Professional Late Bird"
   price: "$75"
@@ -170,6 +172,8 @@ ticketsOffers:
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   featured: true
+  soldOut: true
+  soldOutText: "No Longer Available"
   ticketsNumber: 50
   additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: []
@@ -186,7 +190,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-04-03T23:30"
   validThrough: "2016-04-26T23:30"
-  disabled: true
+  disabled: false
  -
   name: "Student Late Bird"
   price: "$40"
