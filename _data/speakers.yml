@@ -80,6 +80,20 @@
 #  social: 
 #    - {name: "twitter", link: "https://twitter.com/detroitjava"}
 #    - {name: "github", link: "https://github.com/davidmckinnon"}
+-
+  id: 16
+  name: "Mike"
+  surname: "Wolfson"
+  company: "Able Android LLC"
+  title: "Independent Dev"
+  bio: "Mike is a passionate mobile designer/developer working out of Phoenix. He has been working in the software field for more than 20 years, and with Android since its introduction. Currently, he develops Android applications for an IoT startup, in the automotive and payments space. He is a Google Developer Expert in Android, and the author of the book “Android Developer Tools Essentials” published by O’Reilly.Mike has spoken about Android and mobile development at a variety of conferences and user groups (including Oscon, AnDevCon, GDGSv, Droidcon Turin, and others). When he is not geeking out about phones, he enjoys the outdoors (snowboarding, hiking, scuba diving), collecting PEZ dispensers, and chasing his young (but quick) daughter."
+  thumbnailUrl: MikeWolfson.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/mikewolfson"}
+    - {name: "google-plus", link: "https://plus.google.com/+MichaelWolfson"}
 - 
   id: 8
   name: "Kevin"
@@ -178,20 +192,6 @@
   bio: "Scott Showalter is a mobile experience designer practicing Lean UX in the wild. Scott takes UX well into the future, proving that we can fold users into the strategy and planning stages of product development before a single line of code is crafted or pixel is painted. Scott leads two Lean UX meetups: one in northwest Ohio and another in Ann Arbor Michigan, where he spreads the news that Lean UX can make sure we're solving problems people actually care about and innovating products that people will love and use."
   thumbnailUrl: ScottShowalter.jpg
   rockstar: true
--
-  id: 16
-  name: "Mike"
-  surname: "Wolfson"
-  company: "Able Android LLC"
-  title: "Independent Dev"
-  bio: "Mike is a passionate mobile designer/developer working out of Phoenix. He has been working in the software field for more than 20 years, and with Android since its introduction. Currently, he develops Android applications for an IoT startup, in the automotive and payments space. He is a Google Developer Expert in Android, and the author of the book “Android Developer Tools Essentials” published by O’Reilly.Mike has spoken about Android and mobile development at a variety of conferences and user groups (including Oscon, AnDevCon, GDGSv, Droidcon Turin, and others). When he is not geeking out about phones, he enjoys the outdoors (snowboarding, hiking, scuba diving), collecting PEZ dispensers, and chasing his young (but quick) daughter."
-  thumbnailUrl: MikeWolfson.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "twitter", "https://twitter.com/mikewolfson"}
-    - {name: "google-plus", "https://plus.google.com/+MichaelWolfson"}
 #- 
 #  id: 9
 #  name: "Jason"
