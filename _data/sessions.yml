@@ -90,22 +90,22 @@
   speakers: [10]
   language: en
   complexity: "Beginner"
-#-
-#  id: 010
-#  title: "The Lollipop Guild Gets A Job"
-#  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply"
-#  subtype: presentation
-#  speakers: []
-#  language: en
-#  complexity: "Intermediate"
-#-
-#  id: 011
-#  title: "Adaptive Android Design Practice"
-#  description: "In this talk, we will talk about how to create deliverable and adaptive design for Android apps from scratch. We will cover pretty much everything practical from looking for design resources to generating correct Specs and image sizes based on device sizes and densities . From this talk, you will also gain insights into the differences between iOS and Android in terms of design and implementations."
-#  subtype: presentation
-#  speakers: []
-#  language: en
-#  complexity: "Beginner"
+-
+  id: 010
+  title: "Dynamic Code analysis - Reflection in Java"
+  description: "Through this code lab, we will learn the different reflection capabilities built into Java platform. We will use those features in order to perform runtime inspection of classes, invocation of methods and accessibility changes. OOP knowledge is required, as well as a machine with Java IDE installed, preferably eclipse."
+  subtype: presentation
+  speakers: [17]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Accessibility, a Beginning"
+  description: "For some of us, ensuring our websites are accessible is an afterthought. We may talk a good game when it comes to 'user centered' this or that. 'Accessibility' is about people. People consume content and use interfaces in many different ways, some similar and some quite dissimilar to how we do it. This presentation is about who defines Accessibility and how to start approaching it. From a developers point of view."
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: "Beginner"
 #-
 #  id: 012
 #  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"

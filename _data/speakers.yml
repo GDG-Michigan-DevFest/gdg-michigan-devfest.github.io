@@ -158,6 +158,16 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/godfreynolan"}
 - 
+  id: 17
+  name: "Gilad"
+  surname: "Pagi"
+  company: "GP Group"
+  bio: "Gilad Pagi is a graduate of the Technion - Israel Institute of Technology. Gilad acquired his B.S. in Math, and B.S. + M.S. in Engineering before joining a research and development team, first as an engineer and then as an R&D team leader. After seven years, Gilad moved to Michigan and founded 'GP Group' a cyber technology consulting company. He is currently pursuing his PhD in Mathematics at the University of Michigan, Ann Arbor."
+  thumbnailUrl: GiladPagi.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giladpagi"}
+- 
   id: 7
   name: "Michael"
   surname: "Pardo"
@@ -192,6 +202,15 @@
   bio: "Scott Showalter is a mobile experience designer practicing Lean UX in the wild. Scott takes UX well into the future, proving that we can fold users into the strategy and planning stages of product development before a single line of code is crafted or pixel is painted. Scott leads two Lean UX meetups: one in northwest Ohio and another in Ann Arbor Michigan, where he spreads the news that Lean UX can make sure we're solving problems people actually care about and innovating products that people will love and use."
   thumbnailUrl: ScottShowalter.jpg
   rockstar: true
+- 
+  id: 18
+  name: "Peter"
+  surname: "Stema"
+  bio: "Peter has been using computer graphics since the mid 1980s, starting with his trusty VIC 20. He started code for the web in the mid 1990s. Is passionate about making cool software and learning new things. A life long musician he favors playing vintage guitars and amps."
+  thumbnailUrl: PeterStema.jpg 
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/peterstema"}
 #- 
 #  id: 9
 #  name: "Jason"
@@ -227,17 +246,6 @@
 #  social: 
 #    - {name: "twitter", link: "https://www.twitter.com/cmsmithco"}
 #    - {name: "github", link: "https://github.com/QueueHammer"}
-#- 
-#  id: 4
-#  name: "Peter"
-#  surname: "Stema"
-#  company: "United Health Care/Optum Technologies"
-#  title: "Senior Software Developer"
-#  bio: "Peter has been using computer graphics since the mid 1980s, starting with his trusty VIC 20. He started code for the web in the mid 1990s. He currently is a Senior Software Developer at United Health Care/Optum Technologies. Is passionate about making cool software and learning new things. A life long musician he favors playing vintage guitars and amps."
-#  thumbnailUrl: PeterStema.jpg 
-#  rockstar: true
-#  social: 
-#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111"}
 #- 
 #  id: 5
 #  name: "Michael"
