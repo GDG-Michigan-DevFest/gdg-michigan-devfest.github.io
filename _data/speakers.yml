@@ -129,6 +129,18 @@
     - {name: "twitter", link: "https://twitter.com/DeanMDreon"}
     - {name: "github", link: "https://github.com/dmdreon"}
     - {name: "facebook", link: "https://facebook.com/dean.dreon"}
+- 
+  id: 19
+  name: "Seth"
+  surname: "Johnson"
+  company: "Fathead"
+  title: "Software Engineer"
+  bio: "Seth Johnson is a recent Grand Circus coding bootcamp graduate and currently works for the Quicken FOC company Fathead. As a web developer, he is passionate to learn the latest and greatest technologies while putting in practice a foundation of tried and true patterns and practices that ensure code maintainability, functionality, and readability. Seth is passionate about performance, design, and SOLID principles. As a relatively new developer, he seeks to be challenged and grow every day while bringing his own creativity and prerogative to projects."
+  thumbnailUrl: SethJohnson.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sethjdev"}
+    - {name: "github", link: "https://github.com/sethjdev"}
 -
   id: 12
   name: "Dhiwakar"

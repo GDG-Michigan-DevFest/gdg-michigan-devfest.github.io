@@ -106,6 +106,14 @@
   speakers: [18]
   language: en
   complexity: "Beginner"
+-
+  id: 012
+  title: "Leveraging the Google Maps API in a Yard Service Request Application"
+  description: "LawnGuru is a mobile and web application that allows customers to request lawn and snow plowing service directly from their phone, tablet or laptop. Users draw out their service areas over a satellite view of their property and size and location are calculated using the Google Maps API. The LawnGuru web platform is built on ASP.NET MVC and utilizes TypeScript to manage the logic and business objects in the browser while customers create their on-demand lawn care and snow plow experience."
+  subtype: presentation
+  speakers: [19]
+  language: en
+  complexity: "Beginner"
 #-
 #  id: 012
 #  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"
