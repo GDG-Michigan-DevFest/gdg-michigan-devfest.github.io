@@ -114,6 +114,14 @@
   speakers: [19]
   language: en
   complexity: "Beginner"
+-
+  id: 013
+  title: "Firebase - Google's backend in a box"
+  description: "Google's Firebase is 4 things, with no overhead. A realtime database, authentication, security and web-hosting. The realtime aspect of the database, and the ease of implementation make it a great tool to teach client-side web apps. Though it does have a full sdk for iOS and Android. It is also so fast and easy to setup it is more often my first choice for proof of concept ideas within our department. I will walk through an overview of what the technology is, why it has become my goto for most new projects and even do short demo to exemplify why it is so easy."
+  subtype: presentation
+  speakers: [20]
+  language: en
+  complexity: "Beginner"
 #-
 #  id: 012
 #  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"

@@ -106,6 +106,21 @@
   social: 
     - {name: "site", link: "http://www.kevcar.me/"}
 -
+  id: 20
+  name: "Lloyd"
+  surname: "Cledwyn"
+  company: "GDG Twin Cities"
+  title: "Founder, Co-organizer"
+  bio: "Lloyd Lentz Cledwyn, is the founding co-organizer of GDG Twin Cities and is the Director of Advancement IT at Macalester College in St. Paul."
+  thumbnailUrl: LloydCledwyn.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Twin Cities", url: "http://gdgtc.com" }
+  social:
+    - {name: "site", link: "https://cledwyn.com"}
+    - {name: "twitter", link: "https://twitter.com/cledwyn"}
+    - {name: "google-plus", link: "https://plus.google.com/+LloydCledwyn"}
+-
   id: 9
   name: "Brennan"
   surname: "Crispin"
