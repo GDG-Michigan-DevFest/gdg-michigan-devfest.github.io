@@ -1,17 +1,14 @@
 -
   id: 501
   title: "Breakfast/Opening"
-  place: "Kitchen and Breakout Room"
   service: true
 -
   id: 503
   title: "Lunch Break"
-  place: "Kitchen"
   service: true
 -
   id: 504
   title: "Wrap Up"
-  place: "Super Breakout Room"
   service: true  
 -
   id: 600
