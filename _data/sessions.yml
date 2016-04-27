@@ -66,7 +66,7 @@
 -
   id: 007
   title: "MV-WTF?"
-  description: "This presentation will explore some of the existing view presentation options that developers have at their disposal, including: Model View Controller (MVC), Model View Presentation (MVP), Model View ViewModel (MVVM)\n\nAt the conclusion of this presentation, we will look at a less commonly implemented architecture: Model View Intent (MVI). At Notion, we have developed a lightweight library to facilitate the implementation of MVI, as a means of improving upon the previously established options."
+  description: "This presentation will explore some of the existing view presentation options that developers have at their disposal, including: Model View Controller (MVC), Model View Presentation (MVP), Model View ViewModel (MVVM) At the conclusion of this presentation, we will look at a new idea that the Notion Android team has come up with: Model View Reactive Presentation Model (MVRPM)."
   subtype: presentation
   speakers: [8]
   language: en
