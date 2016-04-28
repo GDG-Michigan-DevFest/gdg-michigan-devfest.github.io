@@ -144,6 +144,18 @@
     - {name: "twitter", link: "https://twitter.com/DeanMDreon"}
     - {name: "github", link: "https://github.com/dmdreon"}
     - {name: "facebook", link: "https://facebook.com/dean.dreon"}
+-
+  id: 21
+  name: "Nima"
+  surname: "Esmaili Mokaram"
+  company: "Quicken Loans"
+  title: "Software Engineer"
+  bio: "Nima is a recent Ohio State graduate and just started his software engineering career with Quicken Loans. He has been working with Polymer since Polymer 0.5. In his spare time, he enjoys playing soccer and going skiing."
+  thumbnailUrl: NimaEsmailiMokaram.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/niesmo"}
+    - {name: "github", link: "https://github.com/niesmo"}
 - 
   id: 19
   name: "Seth"
